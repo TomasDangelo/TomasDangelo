@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TomasDangelo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 👋 Hola, mi nombre es Tomas D'Angelo
+- 🌱 Estoy aprendiendo programación, con la intención de terminar los cursos correspondientes para ser Full Stack Developer. 
 
 <!---
 TomasDangelo/TomasDangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
