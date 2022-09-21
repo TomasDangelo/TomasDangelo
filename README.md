@@ -4,7 +4,7 @@
 ##### 👀Podés visualizar algunos de mis proyectos en mi perfil, como:
 - Aguamerica: mi primer proyecto, realizado para el curso de Desarrollo Web, con HTML y CSS
 - Ruth: mi segundo proyecto, realizado para el curso de Javascript, que incluye un carrito de productos.
-- Tom's Store: mi tercer proyecto, creado para el curso de ReactJS. Es la simulación de un Ecommerce interactivo con carrito de compras, que permite completar un formulario para finalizar compras, y enviarlo con un ID único a la base de datos de Firebase (simulando una compra real). Lo podés encontrar en mi perfil como "productos-tomasdangelo".
+- Tom's Store: mi tercer proyecto, creado para el curso de ReactJS. Es la simulación de un Ecommerce interactivo con carrito de compras, que permite completar un formulario para finalizar compras, y enviarlo con un ID único a la base de datos de Firebase (simulando una compra real). 
 <!---
 TomasDangelo/TomasDangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
