@@ -1,5 +1,6 @@
 # 👋 Hola, mi nombre es Tomas D'Angelo
 
+![](https://drive.google.com/file/d/1M8hvAf6ZguPC3V3Pnz5jzr1YyOJsi2Ks/view?usp=sharing)
 #### Actualmente estoy aprendiendo programación en Coderhouse. En este momento estoy aprendiendo ReactJS y acabo de comenzar a aprender programación Backend, con el objetivo de convertirme en Full Stack Developer. 
 #
 ##### Podés visualizar algunos de mis proyectos en mi perfil, como:
