@@ -1,6 +1,6 @@
+![](https://raw.githubusercontent.com/TomasDangelo/TomasDangelo/main/logo-td-2.png)
 # 👋 Hola, mi nombre es Tomas D'Angelo
 
-![](https://raw.githubusercontent.com/TomasDangelo/TomasDangelo/main/logo-td-2.png)
 #### Actualmente estoy aprendiendo programación en Coderhouse. En este momento estoy aprendiendo ReactJS y acabo de comenzar a aprender programación Backend, con el objetivo de convertirme en Full Stack Developer. 
 #
 ##### Podés visualizar algunos de mis proyectos en mi perfil, como:
