@@ -1,7 +1,7 @@
 # 👋 Hola! Mi nombre es Tomas D'Angelo
 ![](https://raw.githubusercontent.com/TomasDangelo/TomasDangelo/main/logo-td-2.png)
 
-#### Actualmente estoy aprendiendo programación en Coderhouse. En este momento estoy aprendiendo ReactJS y acabo de comenzar a aprender programación Backend, con el objetivo de convertirme en Full Stack Developer. 
+#### Actualmente estoy aprendiendo programación en Coderhouse. Ya completé los cursos de Desarrollo Web (HTML, CSS), de JavaScript y de React JS. En este momento estoy aprendiendo programación Backend, con el objetivo de convertirme en Full Stack Developer. 
 #
 ##### Podés visualizar algunos de mis proyectos en mi perfil, como:
 - **Mi portfolio**: recientemente decidí crear una página que me sirva como portfolio para mostrar mis proyectos. Esta página contiene mi información personal, información de contacto, mis habilidades y mis trabajos. El portfolio puede visualizarse en: https://portfolio-tomas-dangelo.vercel.app/
